@@ -17,7 +17,7 @@
     </div>
 
     <div class="page-header">
-        <p class="breadcrumb">Dashboard > Pelanggan & Member</p>
+        <p class="breadcrumb"><a href="{{ route('dashboard') }}">Dashboard</a> > Pelanggan & Member</p>
         <h1>Data member</h1>
         <p>Kelola data pelanggan, level keanggotaan, dan status profil pengguna venue.</p>
     </div>
