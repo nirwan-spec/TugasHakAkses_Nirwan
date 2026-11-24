@@ -27,6 +27,8 @@
                 <button type="submit">Masuk</button>
             </div>
         </form>
+
+        <p style="text-align:center">Belum punya akun? <a href="{{ route('register') }}">Daftar</a></p>
     </div>
 </body>
 </html>
